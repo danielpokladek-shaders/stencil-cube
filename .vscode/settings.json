@@ -68,9 +68,11 @@
     },
     "dotnet.defaultSolution": "stencil-cube.sln",
     "cSpell.words": [
+        "Antichamber",
         "ENDHLSL",
         "hlsl",
         "HLSLPROGRAM",
+        "Ilett",
         "Ndot",
         "Varyings"
     ]
