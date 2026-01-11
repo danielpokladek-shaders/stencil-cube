@@ -6,6 +6,10 @@ A Unity shader that recreates the impossible cube illusion popularized by Antich
     <img src="./resources/banner.jpg">
 </p>
 
+[Playable Demo](https://danielpokladek-shaders.github.io/stencil-cube/)
+
+> Please note, the layered approach doesn't work on the Web build, but the standard read/write approach works as expected.
+
 ## Overview
 
 At first look, the cube looks like ordinary cube with an object inside it, but when player's look at the other faces on the cube they will notice that each side shows a different object inside of it.
