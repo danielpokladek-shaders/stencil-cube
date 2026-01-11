@@ -21,3 +21,12 @@ The repo shows two approaches of achieving this effect:
 
 - The original approach, this required a read/write shader for each ID and was the main material used on the objects - this meant that the default material couldn't be used on the object.
 - A more flexible approach documented by Daniel Ilett, where the objects are placed on different layers and we carry out the stencil comparison on the render pipeline level - this allows for any material to be used on the objects, as stencil buffer compares against the layer.
+
+## Specs
+
+- Unity: **6.0.60f1 LTS**.
+- Render Pipeline: **Universal Render Pipeline (URP)**
+
+## License
+
+Licensed under MIT License unless otherwise stated.
