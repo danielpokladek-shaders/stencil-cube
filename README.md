@@ -6,6 +6,8 @@ A Unity shader that recreates the impossible cube illusion popularized by Antich
     <img src="./resources/banner.jpg">
 </p>
 
+See this [blog post](https://www.danielpokladek.me/posts/shaders/2026/stencil-cube/), for a more in-depth breakdown of this shader.
+
 [Playable Demo](https://danielpokladek-shaders.github.io/stencil-cube/)
 
 > Please note, the layered approach doesn't work on the Web build, but the standard read/write approach works as expected.
